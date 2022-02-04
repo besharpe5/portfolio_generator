@@ -1,7 +1,11 @@
 # Portfolio Generator
 
 ## Description
-Portfolio Generator is a Node.js application that creates an HTML portfolio page based on user input via the command line. 
+Portfolio Generator is a Node.js application that creates an HTML portfolio page based on user input via the command line.
+
+# Installation & Usage
+* Clone this repo to your local machine.
+* Install and run from the command line.
 
 
 ## Screenshot
